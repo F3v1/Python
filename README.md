@@ -55,4 +55,4 @@ Python’s simplicity and versatility make it ideal for both beginners and exper
 Clone the repository:
 
 ```bash
-git clone https://github.com/F3v1/python.git
+git clone https://github.com/F3v1/Python.git
