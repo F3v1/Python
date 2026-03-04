@@ -27,10 +27,10 @@ Each project is designed to demonstrate clean structure, problem-solving skills,
 
 ## 📦 Projects Included
 
-### 🗂 Project 1 – Smart File Organizer
+### 🗂 Project 1 – fileorganizer.py
 Automatically sorts files into categorized folders such as Images, Documents, Videos, Music, Archives, and Others.
 
-### 🔐 Project 3 – Password Manager
+### 🔐 Project 3 – bruteforce.py
 A kinda powerful python brute force script for password-generation... Like what did you expect?
 
 
