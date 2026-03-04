@@ -2,7 +2,7 @@ import sys
 
 sys.stdout.reconfigure(line_buffering=True)
 
-alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-.:,;_#'+*~<>|!§$%&/()=?´`@€µ²³{[]}\\"
+alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-.:,;_#'+*~<>|!§$%&/()=?´`@€{[]}\\"
 password_length = 3  #adjust the lenght of the passwords you want to create
 
 def generate_passwords(current_password, length):
