@@ -56,6 +56,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/F3v1/Python.git
+exit 1
 
 Navigate into a project folder:
 
