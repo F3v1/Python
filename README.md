@@ -1,3 +1,3 @@
 # Python
-> [!IMPORTANT]
+> [!NOTE]
 >Python projects, as expected...
