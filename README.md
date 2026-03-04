@@ -31,7 +31,7 @@ Each project is designed to demonstrate clean structure, problem-solving skills,
 Automatically sorts files into categorized folders such as Images, Documents, Videos, Music, Archives, and Others.
 
 ### 🔐 Project 3 – Password Manager
-A kinda powerful python brute force script for password-generation... What did you expect?
+A kinda powerful python brute force script for password-generation... Like what did you expect?
 
 
 ---
@@ -56,3 +56,8 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/F3v1/Python.git
+
+Navigate into a project folder:
+
+```bash
+cd project-folder-name
