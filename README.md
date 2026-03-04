@@ -60,4 +60,4 @@ git clone https://github.com/F3v1/Python.git
 Navigate into a project folder:
 
 ```bash
-cd python/<projec>
+cd python/<project>
