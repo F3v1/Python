@@ -1,4 +1,4 @@
-![Header](https://share.google/s3ARD5lbweC07BFJO)
+![Header]()
 
 # Python
 > [!WARNING]
