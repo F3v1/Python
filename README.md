@@ -5,7 +5,7 @@
 <h1 align="center">🐍 Python Projects Collection</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=3776AB&center=true&vCenter=true&width=600&lines=Interactive+Python+Programs;Automation+Tools;CLI+Utilities;Learning+by+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=3776AB&center=true&vCenter=true&width=600&lines=Interactive+Python+Programs;Automation+Tools;Fun+Programs;Learning+by+Building" />
 </p>
 
 <p align="center">
