@@ -31,7 +31,7 @@ Each project is designed to demonstrate clean structure, problem-solving skills,
 Automatically sorts files into categorized folders such as Images, Documents, Videos, Music, Archives, and Others.
 
 ### 🔐 Project 3 – bruteforce.py
-A kinda powerful python brute force script for password-generation... Like what did you expect?
+A python brute force script for password-generation... Like what did you expect?
 
 
 ---
